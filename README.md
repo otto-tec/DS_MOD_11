@@ -12,3 +12,14 @@
 - Definições;
 - SpaCy e NLTK;
 - Tokenização, stopwords, stemização e lematização;
+- Similaridade;
+- Parts of Speech;
+- Named Entity Recognition;
+- Bag Of Words;
+- TF - IDF;
+- Word Embedding;
+- Processamento de Áudio;
+- Definições;
+- Frequência;
+- Amplitude;
+- Fase;
